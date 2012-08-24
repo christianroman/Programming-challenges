@@ -4,13 +4,13 @@ Programming-challenges
 Programming challenges that solve in my free time from the book: The programming contest training manual
 
 Problems
-________
+--------
 
 <table>
    <tr>
-      <td>Number</td>
-      <td>Name</td>
-      <td>Status</td>
+      <th>Number</th>
+      <th>Name</th>
+      <th>Status</th>
    </tr>
    <tr>
       <td>110101</td>
