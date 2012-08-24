@@ -1,9 +1,8 @@
 Programming-challenges
 ======================
+Programming challenges that solve in my free time from the book **Programming Challenges: The programming contest training manual**
 
-Programming challenges that solve in my free time from the book: The programming contest training manual
-
-Problems
+Problems List
 --------
 
 <table>
