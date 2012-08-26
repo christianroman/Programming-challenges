@@ -1,12 +1,10 @@
-package minesweeper;
-
 import java.io.*;
 
 /**
  *
  * @author christian
  */
-public class Main {
+public class Minesweeper {
 
     public static String getInput() {
         String string = "";

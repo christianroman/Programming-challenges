@@ -1,12 +1,10 @@
-package vitosfamily;
-
 import java.io.*;
 import java.util.StringTokenizer;
 /**
  *
  * @author christian
  */
-public class Main {
+public class VitosFamily {
 
     public static String getInput() {
         String inputLine=null;
